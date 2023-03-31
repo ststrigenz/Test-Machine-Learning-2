@@ -1,6 +1,6 @@
 # repository to predict prices
 
-### Author: Scott Strigenz
+### Author:
 
 
 ### Project Description: 
