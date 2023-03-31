@@ -24,5 +24,3 @@ plt.title('Open values for AAPL')
 plt.xlabel('Year')
 plt.ylabel('Value')
 plt.show()
-
-
